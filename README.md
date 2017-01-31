@@ -1,10 +1,8 @@
-first update for github
+must extract *.tar.gz files after download.
 
-you must extract *.tar.gz files.
+contain the caffe framework and SSD(Single Shot Detector) using caffe.
 
-it contains about caffe and Single Shot Detector.
-
-requires
+requires...
 
 - ubuntu Liux 14.04
 - Cudnn
@@ -12,3 +10,5 @@ requires
 - openCV
 - caffe Framework
 - C++ compiler
+- some libraries for running
+- some files for testing

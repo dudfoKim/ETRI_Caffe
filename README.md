@@ -12,3 +12,6 @@ requires...
 - C++ compiler
 - some libraries for running
 - some files for testing
+
+
+update files how to install caffe (ver : 2nd, February, 2017)

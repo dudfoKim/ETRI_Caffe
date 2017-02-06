@@ -14,4 +14,8 @@ requires...
 - some files for testing
 
 
-update files how to install caffe (ver : 2nd, February, 2017)
+********************************************************************
+
+update file, how to install caffe (ver : 2nd, February, 2017)
+
+update file, ssd_detection.ipynb (ver : 6th, February, 2017)

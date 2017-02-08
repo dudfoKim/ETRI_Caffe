@@ -1,3 +1,7 @@
+This repository has contained XM Media project in ETRI.
+
+********************************************************************
+
 must extract *.tar.gz files after download.
 
 contain the caffe framework and SSD(Single Shot Detector) using caffe.

@@ -20,6 +20,10 @@ requires...
 
 ********************************************************************
 
-update file, how to install caffe (ver : 2nd, February, 2017)
+update file, know-how to install caffe&SSD  (ver : 2nd, February, 2017)
 
-update file, ssd_detection.ipynb (ver : 6th, February, 2017)
+ => reference the how to install.txt'
+
+update file, 'testing the Single Shot multi Detector' (ver : 6th, February, 2017)
+
+ => run the 'ssd_detection.ipyb'

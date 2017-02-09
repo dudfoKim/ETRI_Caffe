@@ -20,16 +20,16 @@ requires...
 
 ********************************************************************
 
-* update file, know-how to install caffe&SSD  (ver : 2nd, February, 2017)
+# update file, know-how to install caffe&SSD  (ver : 2nd, February, 2017)
 
  => reference the 'how to install.txt'
  
 
-* update file, testing the Single Shot multi Detector (ver : 6th, February, 2017)
+# update file, testing the Single Shot multi Detector (ver : 6th, February, 2017)
 
  => run the 'ssd_detection.ipyb'
 
 
-* update file, attachment of the presentation about SSD (ver : 9th, February, 2017)
+# update file, attachment of the presentation about SSD (ver : 9th, February, 2017)
 
  => reference the 'SSD PT ver.3.pptx'

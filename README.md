@@ -1,3 +1,5 @@
+#ETRI_Caffe
+
 This repository has contained the XM Media and Giga Korea project in ETRI.
 
 ********************************************************************
@@ -23,5 +25,3 @@ requires...
 1. update file, know-how to install caffe&SSD : 'how to install.txt' (ver : 2nd, February, 2017) 
 
 2. update file, testing the Single Shot multi Detector : 'ssd_detection.ipyb' (ver : 6th, February, 2017)
-
-3. update file, attachment of the presentation about SSD : 'SSD PT ver.3.pptx' (ver : 9th, February, 2017)
